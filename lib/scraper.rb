@@ -1,6 +1,6 @@
 require 'nokogiri'
 require 'open-uri'
-require 'pry-moves'
+require 'pry'
 
 require_relative './course.rb'
 
